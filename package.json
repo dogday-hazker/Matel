@@ -1,0 +1,11 @@
+{
+  "name": "matel",
+  "version": "0.1.0",
+  "description": "Tiny 3D engine for mobile web games. Pure JS software renderer, no WebGL/WebGPU.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": { ".": "./src/index.js" },
+  "files": ["src"],
+  "keywords": ["3d", "engine", "mobile", "canvas", "software-renderer"],
+  "license": "MIT"
+}
